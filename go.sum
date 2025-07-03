@@ -1,0 +1,4 @@
+github.com/daulet/tokenizers v1.20.2 h1:tlq/vIOiBTKDPets3596aFvmJYLn3XI6LFKq4q9LKhQ=
+github.com/daulet/tokenizers v1.20.2/go.mod h1:tGnMdZthXdcWY6DGD07IygpwJqiPvG85FQUnhs/wSCs=
+github.com/yalue/onnxruntime_go v1.20.0 h1:nPcP2UFeueGF/Ifwu3NBQzvNu8oHlJCul0WGPCviKk4=
+github.com/yalue/onnxruntime_go v1.20.0/go.mod h1:b4X26A8pekNb1ACJ58wAXgNKeUCGEAQ9dmACut9Sm/4=

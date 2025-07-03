@@ -1,0 +1,6 @@
+# github.com/daulet/tokenizers v1.20.2
+## explicit; go 1.18
+github.com/daulet/tokenizers
+# github.com/yalue/onnxruntime_go v1.20.0
+## explicit; go 1.19
+github.com/yalue/onnxruntime_go
